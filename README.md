@@ -1,21 +1,25 @@
-# 💫 About Me:
-I am a passionate Software Developer and Information Technology undergraduate currently studying at SLIIT University, Malabe. I enjoy building web applications, tinkering with IoT, and continuously refining my development environment.<br><br>🚀 About Me<br>🎓 I’m currently learning and expanding my skills in Data Structures and Object-Oriented Programming at SLIIT.<br>💻 I have experience developing full-stack web applications, including projects like a Bakery Platform using JSP and HTML.<br>🔌 I also enjoy exploring hardware, having built a Home Automation IoT system integrating motion detection, RFID, and Google Assistant.<br>🐧 Proud Arch Linux user (currently running the Hyprland tiling window manager).<br>📝 I keep my productivity sharp using tools like Obsidian and Morgen for note-taking and time-blocking.<br>🛠️ Tech Stack & Tools<br>Languages: Java, JavaScript, HTML, CSS, Python<br>Web Technologies: JSP<br>OS & Environment: Arch Linux, Bash, Git
+<h1 align="center">Hi 👋, I'm Anura</h1>
+<h3 align="center">Second-year IT Undergraduate | Software Developer | Linux Enthusiast</h3>
 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LixdyDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=LixdyDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LixdyDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LixdyDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5nbW9xbGplZ2pyOG41eDM2aGE0bmlnY2Ztd3c0dXF2aW1qdjBxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif" alt="Coding GIF" width="400"/>
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=LixdyDev&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+* 🎓 Currently studying Information Technology at the Sri Lanka Institute of Information Technology (SLIIT).
+* 💻 Passionate about web and application development, constantly building new projects.
+* 🐧 Dedicated Linux user, currently daily driving Arch Linux with Hyprland for my development environment.
+* 📚 Expanding my skill set by working through *Python Crash Course (3rd Edition)* and building 2D games with Pygame.
+* ⚡ Fun fact: When I'm not writing code, tweaking my dotfiles, or organizing my life in Obsidian, you can usually find me grinding Valorant or hitting the gym.
+
+### 🛠️ Languages and Tools
+<p align="left"> 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux"/>
+</p>
