@@ -8,6 +8,20 @@
 
 ###
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=LixdyDev.LixdyDev&"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">📌 About Me</h3>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdlOW9xNTE2cThobDA3OTFweHgyM2hxNTdsZnZsdjNlOWlsbHBieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lopxApgFsvcDfpjqn/giphy.gif"  />
+
+###
+
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -26,20 +40,12 @@
 
 ###
 
-<h3 data-importer="text" align="left">📌 About Me</h3>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <p data-importer="text" align="left">🎓 Currently studying Information Technology at the Sri Lanka Institute of Information Technology (SLIIT).<br>💻 Passionate about web and application development, constantly building new projects.<br>🐧 Dedicated Linux user, currently daily driving Arch Linux with Hyprland for my development environment.<br>📚 Expanding my skill set by working through Python Crash Course (3rd Edition) and building 2D games with Pygame.<br>⚡ Fun fact: When I'm not writing code, tweaking my dotfiles, or organizing my life in Obsidian, you can usually find me grinding Valorant or hitting the gym.</p>
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=LixdyDev.LixdyDev&"  />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
