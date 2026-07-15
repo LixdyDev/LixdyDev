@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/LixdyDev/LixdyDev/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://github.com/LixdyDev/LixdyDev/raw/snake-output/snake.svg" alt="Snake animation" />
 
 ###
