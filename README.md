@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="./streak-stats.svg" height="200" alt="streak graph"  />
+  <img src="https://github.com/LixdyDev/LixdyDev/raw/main/streak-stats.svg" height="200" alt="streak graph" />
 </div>
 
 ###
