@@ -1,0 +1,29 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: "0 */2 * * *" # Runs every 2 hours
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  update-streak:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Fetch Streak Stats
+        # We changed theme=dracula to theme=dark right here in the URL!
+        run: curl "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" -o streak-stats.svg
+        
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add streak-stats.svg
+          git commit -m "Update streak stats graph to dark theme" || exit 0
+          git push

@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=LixdyDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+  <img src="./streak-stats.svg" height="200" alt="streak graph"  />
 </div>
 
 ###
