@@ -18,7 +18,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="120" src="/images/_.jpeg"  />
+<img data-importer="image" align="right" height="150" src="/images/_.jpeg"  />
 
 ###
 
