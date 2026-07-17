@@ -26,4 +26,5 @@ jobs:
           git config user.email github-actions@github.com
           git add streak-stats.svg
           git commit -m "Update streak stats graph to dark theme" || exit 0
+          git pull --rebase origin main
           git push
