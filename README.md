@@ -83,7 +83,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="33" height="21" alt="gmail logo"  />
 </div>
 
-###
+<!-- ###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LixdyDev/LixdyDev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -91,7 +91,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LixdyDev/LixdyDev/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+### -->
 
 ###
 
